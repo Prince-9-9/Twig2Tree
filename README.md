@@ -8,7 +8,7 @@ We recommend you to install the Windows build of the game. Alternatively, play o
 
 ## Installation
 
-1. Download the Windows Build from the [Itch.io page](https://adarsh-games.itch.io)
+1. Download the Windows Build from the [Google Drive](https://drive.google.com/drive/folders/10wITyujG8wes0XfyaKvLMOMU2uuWvBj0?usp=sharing)
 2. Extract the zip file
 3. Click on the Game Application to Play
 
@@ -21,3 +21,6 @@ C# Scripts of the game are available in the [Github Repo](https://github.com/Pri
 - Ambient Music : [Ambient Space Music](https://youtu.be/8wLwxmjrZj8)
 - SFX taken from [FreeSound.org](https://freesound.org/)
 - VFX taken from [Unity Particle Pack](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325)
+
+
+-- The drive link contains both the compressed game and the gameplay video.
