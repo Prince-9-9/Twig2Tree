@@ -1,4 +1,4 @@
-# Game Name
+# Twig2Tree
 
 `Theme : Growth`
 
@@ -13,7 +13,7 @@ We recommend you to install the Windows build of the game. Alternatively, play o
 3. Click on the Game Application to Play
 
 ## Info
-C# Scripts of the game are available in the [Github Repo](https://github.com/jibala-1022/)
+C# Scripts of the game are available in the [Github Repo](https://github.com/Prince-9-9/Twig2Tree/)
 
 ## Credits
 - Most of the Assets were made by our Team
